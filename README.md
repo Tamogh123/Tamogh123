@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamogh123&label=Profile%20views&color=0e75b6&style=flat" alt="tamogh123" /> </p>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tamogh123&theme=kimbie_dark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)

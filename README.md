@@ -4,7 +4,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tamogh123&theme=kimbie_dark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tamogh-nekkanti-253954225/" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn - tamogh-nekkanti" height="30" width="40" />
